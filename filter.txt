@@ -4,4 +4,8 @@
 
 
 |http://hilltopads.net/
-|watch8x.com##.
+|http://namesakeoscilloscopemarquis.com/path/ads/ads.js
+|http://*/ads/ads.js
+|http://*/ads.js
+@@||namesakeoscilloscopemarquis.com^*/ads.js$domain=~tvil.me
+@@||google-analytics.com^
