@@ -10,3 +10,5 @@
 |http://*/ads.js
 @@||namesakeoscilloscopemarquis.com^*/ads.js$domain=~tvil.me
 @@||google-analytics.com^
+||popads.net^
+|http://serve.popads.net/
