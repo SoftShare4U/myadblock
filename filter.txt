@@ -1,5 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: My Adblock List
+! https://github.com/SoftShare4U/myadblock/edit/master/filter.txt
 ! Homepage:https://github.com/SoftShare4U/myadblock
 
 
