@@ -1,0 +1,5 @@
+[Adblock Plus 1.1]
+! Title: My Adblock List
+! Homepage:https://github.com/SoftShare4U/myadblock
+
+watch8x.com##.
